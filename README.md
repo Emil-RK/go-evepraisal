@@ -51,3 +51,7 @@ The following was tested on Ubuntu Server 18.10
 ```
   ~/go/src/github.com/evepraisal/go-evepraisal$ ./target/evepraisal-linux-amd64
 ```
+- Initial Autor webpage
+```
+  https://sudorandom.dev/
+```
